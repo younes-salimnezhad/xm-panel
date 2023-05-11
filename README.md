@@ -1,0 +1,2 @@
+# xm-panel
+ssh panel
